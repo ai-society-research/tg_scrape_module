@@ -15,18 +15,6 @@ CLI для выгрузки **постов и комментариев** из п
 pip install tg-scrape-comments
 ```
 
-### Из GitHub (без клонирования)
-```bash
-pip install "git+https://github.com/Frantsuzova/tg_scrape_comments@main"
-```
-
-### Локально из исходников
-```bash
-git clone https://github.com/Frantsuzova/tg_scrape_comments.git
-cd tg_scrape_comments
-pip install .
-```
-
 ## Быстрый старт
 
 1) Получите API ID и API HASH: https://my.telegram.org → **API development tools**.  
